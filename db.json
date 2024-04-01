@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": "f14a",
+      "Category": "cat1",
+      "subCategory": "Mobile",
+      "priority": "High",
+      "Agent": "Mohamed",
+      "Requester": "Ahmed",
+      "SRNumber": "sr11",
+      "Status": "Pending"
+    },
+    {
+      "id": "ceea",
+      "Category": "sr2",
+      "subCategory": "Mobile",
+      "priority": "Medium",
+      "Agent": "Ali",
+      "Requester": "Mohamed",
+      "SRNumber": "sr22",
+      "Status": "Pending"
+    }
+  ]
+}
